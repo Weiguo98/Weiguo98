@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Weiguo98
 - 👀 I’m interested in JAVA backend and javascript front-end.
-- 🌱 I’m currently learning javascript and improve my spring framework skills.
+- 🌱 I’m currently learning javascript and improving my spring framework skills.
 - 📫 How to reach me: guow1227@gmail.com
 
 <!---
