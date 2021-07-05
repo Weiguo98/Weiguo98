@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Weiguo98
-- 👀 I’m interested in JAVA backend and javascript front-end.
+- 👀 I’m a full stack sofware developer and interested in Java backend and JavaScript front-end.
 - 🌱 I’m currently learning javascript and improving my spring framework skills.
 - 📫 How to reach me: guow1227@gmail.com
 
