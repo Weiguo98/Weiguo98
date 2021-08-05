@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Weiguo98
 - 👀 I’m a full stack software developer and interested in Java backend and JavaScript front-end.
-- 🌱 I’m currently learning javascript and improving my spring framework skills.
+- 🌱 I’m currently learning docker, kubernetes and helm.
 - 📫 How to reach me: guow1227@gmail.com
 
 <!---
