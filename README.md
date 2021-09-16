@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning docker, kubernetes and helm.
 - 📫 How to reach me: guow1227@gmail.com
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.seekpng.com%2Fipng%2Fu2e6a9t4u2r5u2w7_related-keywords-suggestions-for-transparent-cats-siamese-cat%2F&psig=AOvVaw3gpk7ucC2T1JkZQ1T4nmoK&ust=1631892436103000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDTzKTng_MCFQAAAAAdAAAAABAD)
+<img src='https://github.com/Weiguo98/Weiguo98/blob/main/SeekPng.com_tumblr-cat-png_3325114.png' align='right' style=' width:100px;height:100 px'/>
 
 
 <!---
