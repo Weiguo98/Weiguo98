@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Weiguo98
-- 👀 I’m familar with Java backend and JavaScript front-end.
+- 👀 I’m familar with microservices struture and development.
 - 🌱 I also acknowledge with docker, kubernetes and helm.
-- 📫 I am currently work as a Golang developer at microservice field
-- 📫 How to reach me: guow1227@gmail.com
+- 📫 I am currently work as a Python and C++ developer at Integration field.
+- 📫 My tech blog: https://weiguo98.github.io/
 
 <p align="center">
     <img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white">
-    <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white">
+    <img alt="Go" src="https://img.shields.io/badge/Golang-%2300ADD8?logo=Go&logoColor=white">
     <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
     <img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white">
     <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white">
