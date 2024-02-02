@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Weiguo98
-- 👀 I’m familar with microservices struture and development.
-- 🌱 I also acknowledge with docker, kubernetes and helm.
-- 📫 I am currently work as a Python and C++ developer at Integration field.
-- 📫 My tech blog: https://weiguo98.github.io/
+- 👀 I’m familar with microservices struture and development and acknowledge with docker, kubernetes and helm.
+- 🎄 I have years of experience of Golang and Python.
+- 👩‍💼 I am currently work as a Python and C++ developer at Integration field.
+- 📫  My tech blog: https://weiguo98.github.io/
 
 <p align="center">
     <img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white">
