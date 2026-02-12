@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Weiguo98
 - 👀 I’m familar with microservices struture and development and acknowledge with docker, kubernetes and helm.
 - 🎄 I have years of experience of Golang and Python.
-- 👩‍💼 I am currently work as a Python and C++ developer at Integration field. Previously,I worked as microservices developer with Golang.
+- 👩‍💼 I am currently work as a SDE in fintech area with Go && TypeScript. Previously, I worked with Python and C++ at Integration field.
 - 📫  My tech blog: https://weiguo98.github.io/
 
 <p align="center">
