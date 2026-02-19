@@ -17,8 +17,6 @@
     <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
-<img src='https://github.com/Weiguo98/Weiguo98/blob/main/SeekPng.com_tumblr-cat-png_3325114.png' align='right' style=' width:100px;height:100 px'/>
-
 
 <!---
 Weiguo98/Weiguo98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
